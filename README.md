@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anita0707
 - 👀 I’m interested in enhancing my skills to become a Data Engineer
-- 🌱 I’m currently learning Python through Angela Yu's Bootcamp on Udemy
-- 💞️ I’m looking to collaborate on an beginner projects
+- 🌱 I’m currently learning Machine Learning and related concepts
+- 💞️ I’m looking to collaborate on an intermediate  projects
 - 📫 How to reach me through my email -oparaanita9797@gmail.com
 
 <!---
